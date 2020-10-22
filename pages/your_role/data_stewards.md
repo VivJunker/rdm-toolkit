@@ -22,7 +22,7 @@ My name is Janet Brown.  I studied B.Sc. Biology and this is my first role after
 * I would like to know what the terms Data Steward and Data Brokering mean
 * Is there some overview on resources and best practice
 * What DM training resources are available for researchers and data stewards?
-* Where so find national and funder DM policies?
+* Where to find national and funder DM policies?
 * How do I implement FAIR principles?
 * Are there templates for legal and policy documents?
 * Are there templates for informed consent?
